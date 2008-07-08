@@ -12,7 +12,9 @@ class Model
     @text = text
   end
 
-  def bigrams
+  def bigrams 
+    # if text has "house", bigrams should return
+    # ['ho', 'ou', 'us', 'se']
     pos = 0
     while pos <= @text.length - 2 
       yield @text[pos, 2]
@@ -23,7 +25,7 @@ class Model
 end
 
 m = Model.new("the house is very large")
-print m.bigrams
+puts m.bigrams
 
 # Dir.glob('models/udhr_*').each do |file|
 #   puts file
