@@ -1,0 +1,5 @@
+NB: Requires ruby1.9.
+
+A module to identify which of any one of a number of human languages a given text is in.
+
+We use a simple similarity measure between frequency counts of bigrams to compare an unknown text to a set of models of known languages.  
