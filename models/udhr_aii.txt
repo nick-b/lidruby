@@ -1,0 +1,10 @@
+Universal Declaration of Human Rights - Assyrian Neo-Aramaic
+© 1996 – 2007 The Office of the High Commissioner for Human Rights
+This plain text version prepared by the “UDHR in Unicode”
+project, http://www.unicode.org/udhr.
+---
+
+
+    ܡܠܘܐܐ 1
+    ܟܠ ܒܪܢܫܐ ܒܪܝܠܗ ܚܐܪܐ ܘܒܪܒܪ ܓܘ ܐܝܩܪܐ ܘܙܕܩܐ. ܘܦܝܫܝܠܗ ܝܗܒܐ ܗܘܢܐ ܘܐܢܝܬ. ܒܘܕ ܕܐܗܐ ܓܫܩܬܝ ܥܠ ܐܚܪܢܐ ܓܪܓ ܗܘܝܐ ܒܚܕ ܪܘܚܐ ܕܐܚܢܘܬܐ.
+  

@@ -6,7 +6,7 @@ We use a simple similarity measure between frequency counts of bigrams to compar
 
 The language models are built with samples from: 
 
-  http://www.unicode.org/udhr/assemblies/full_all.txt
+  http://www.unicode.org/udhr/downloads.html
 
 which is copied to models/ .
 

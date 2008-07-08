@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<udhrs>
+  <udhr l='abk'                rfc4646bis='ab'         ohchr='abk'    stage='4'  pdf='y' notes='y' loc='42,42'          country='GE' region='Asia'        demo='n' n="Abkhaz" />
+  <udhr l='ace'                rfc4646bis='ace'        ohchr='atj'    stage='4'  pdf='y' notes='n' loc='5,96'           country='ID' region='Asia'        demo='n' n='Aceh'/>
+  <udhr l='acu'                rfc4646bis=''           ohchr='acu'    stage='4'  pdf='y' notes='y' loc='-12.00,-77.00'  country='PE' region='Americas'    demo='n' n='Achuar-Shiwiar'/>
+  <udhr l='ada'                rfc4646bis='ada'        ohchr='gac1'   stage='4'  pdf='y' notes='n' loc='6,0'            country='GH' region='Africa'      demo='n' n='Dangme'/>
+  <udhr l='afr'                rfc4646bis='af'         ohchr='afk'    stage='4'  pdf='y' notes='y' loc='-30,23'         country='ZA' region='Africa'      demo='n' n='Afrikaans'/>
+  <udhr l='agr'                rfc4646bis=''           ohchr='agr'    stage='4'  pdf='y' notes='y' loc='-12.00,-76.50'  country='PE' region='Americas'    demo='n' n='Aguaruna'/>
+  <udhr l='aii'                rfc4646bis=''           ohchr='aii'    stage='3'  pdf='n' notes='n' loc='33,44'          country='IQ' region='Asia'        demo='n' n='Assyrian Neo-Aramaic'/>
+  <udhr l='ajg'                rfc4646bis=''           ohchr='aja'    stage='4'  pdf='y' notes='n' loc='7,1.7'          country='BJ' region='Africa'      demo='n' n='Aja'/>
+  <udhr l='aka' v='akuapem'    rfc4646bis='ak-x-akuapem'       ohchr='tws1'   stage='4'  pdf='y' notes='n' loc='7,-1'           country='GH' region='Africa'      demo='n' n='Akan' nv='Akuapem'/>
+  <udhr l='aka' v='asante'     rfc4646bis='ak-x-asant' ohchr='ass'    stage='4'  pdf='y' notes='n' loc='7,-2'           country='GH' region='Africa'      demo='n' n='Akan' nv='Asante'/>
+  <udhr l='aka' v='fante'      rfc4646bis='ak-x-fante' ohchr='tws3'   stage='4'  pdf='y' notes='n' loc='6,-1'           country='GH' region='Africa'      demo='n' n='Akan' nv='Fante'/>
+  <udhr l='als'                rfc4646bis='sq'         ohchr='aln'    stage='4'  pdf='y' notes='n' loc='40.5,21'        country='AL' region='Europe'      demo='n' n='Albanian, Tosk'/>
+  <udhr l='amc'                rfc4646bis=''           ohchr='amc'    stage='4'  pdf='y' notes='n' loc='-10.5,-73'      country='PE' region='Americas'    demo='n' n='Amahuaca'/>
+  <udhr l='ame'                rfc4646bis=''           ohchr='ame'    stage='4'  pdf='y' notes='y' loc='-10.5,-75.5'    country='PE' region='Americas'    demo='n' n='Yanesha&#x02BC;'/>
+  <udhr l='amh'                rfc4646bis='am'         ohchr='amh'    stage='4'  pdf='y' notes='n' loc='12,38'          country='ET' region='Africa'      demo='n' n='Amharic'/>
+  <udhr l='amr'                rfc4646bis=''           ohchr='amr'    stage='4'  pdf='y' notes='n' loc='-12.5,-70.5'    country='PE' region='Americas'    demo='n' n='Amarakaeri'/>
+  <udhr l='arb'                rfc4646bis='ar'         ohchr='arz'    stage='4'  pdf='y' notes='n' loc='25,45'          country='SA' region='Asia'        demo='y' n='Arabic, Standard'/>
+  <udhr l='arl'                rfc4646bis=''           ohchr='arl'    stage='4'  pdf='y' notes='n' loc='-2,-75'         country='PE' region='Americas'    demo='n' n='Arabela'/>
+  <udhr l='arn'                rfc4646bis='arn'        ohchr='aru'    stage='4'  pdf='y' notes='n' loc='-42,-72'        country='CL' region='Americas'    demo='n' n='Mapudungun'/>
+  <udhr l='asm'                rfc4646bis='as'         ohchr='asm'    stage='2'  pdf='n' notes='n' loc='26,93'          country='IN' region='Asia'        demo='n' n='Assamese'/>
+  <udhr l='ast'                rfc4646bis='ast'        ohchr='aub'    stage='4'  pdf='y' notes='n' loc='43.5,-6'        country='ES' region='Europe'      demo='n' n='Asturian'/>
+  <udhr l='auv'                rfc4646bis='oc-x-auv'   ohchr='auv1'   stage='4'  pdf='y' notes='n' loc='45.0,3.1'       country='FR' region='Europe'      demo='n' n='Auvergnat'/>
+  <udhr l='ayr'                rfc4646bis='ay'         ohchr='aym'    stage='4'  pdf='y' notes='n' loc='-16,-68'        country='BO' region='Americas'    demo='n' n='Aymara, Central'/>
+  <udhr l='azj' v='cyrl'       rfc4646bis='az-Cyrl'    ohchr='azb1'   stage='4'  pdf='y' notes='n' loc='51,40'          country='AZ' region='Asia'        demo='n' n='Azerbaijani, North' nv='Cyrillic'/>
+  <udhr l='azj' v='latn'       rfc4646bis='az-Latn'    ohchr='azb'    stage='4'  pdf='y' notes='n' loc='50,40'          country='AZ' region='Asia'        demo='n' n='Azerbaijani, North' nv='Latin'/>
+  <udhr l='bam'                rfc4646bis='bm'         ohchr='bra'    stage='4'  pdf='y' notes='n' loc='15,-7'          country='ML' region='Africa'      demo='n' n='Bamanankan'/>
+  <udhr l='ban'                rfc4646bis='ban'        ohchr='bzc'    stage='4'  pdf='y' notes='n' loc='-8.5,115'       country='ID' region='Asia'        demo='n' n='Bali'/>
+  <udhr l='bba'                rfc4646bis=''           ohchr='bba'    stage='4'  pdf='y' notes='n' loc='10.2,2.6'       country='BJ' region='Africa'      demo='n' n='Baatonum'/>
+  <udhr l='bci'                rfc4646bis=''           ohchr='bci'    stage='4'  pdf='y' notes='n' loc='7,-7'           country='CI' region='Africa'      demo='n' n='Baoulé'/>
+  <udhr l='bcl'                rfc4646bis='bik'        ohchr='bkl'    stage='4'  pdf='y' notes='n' loc='14,124'         country='PH' region='Asia'        demo='n' n='Bicolano, Central'/>
+  <udhr l='bel'                rfc4646bis='be'         ohchr='ruw'    stage='4'  pdf='y' notes='y' loc='53,28'          country='BY' region='Europe'      demo='n' n='Belarusan'/>
+  <udhr l='bem'                rfc4646bis='bem'        ohchr='bem'    stage='4'  pdf='y' notes='n' loc='-10,31'         country='ZM' region='Africa'      demo='n' n='Bemba'/>
+  <udhr l='ben'                rfc4646bis='bn'         ohchr='bng'    stage='4'  pdf='y' notes='n' loc='24,90'          country='BD' region='Asia'        demo='y' n='Bengali'/>
+  <udhr l='bgp'                rfc4646bis='bal'        ohchr='bgp'    stage='2'  pdf='n' notes='n' loc='28,66'          country='PK' region='Asia'        demo='n' n='Balochi, Eastern'/>
+  <udhr l='bho'                rfc4646bis='bho'        ohchr='bhj'    stage='4'  pdf='y' notes='n' loc='25,86'          country='IN' region='Asia'        demo='n' n='Bhojpuri'/>
+  <udhr l='bin'                rfc4646bis='bin'        ohchr='edo'    stage='4'  pdf='y' notes='n' loc='6.8,6'          country='NG' region='Africa'      demo='n' n='Edo'/>
+  <udhr l='bis'                rfc4646bis='bi'         ohchr='bcy'    stage='4'  pdf='y' notes='n' loc='-17,168'        country='VU' region='Pacific'     demo='n' n='Bislama'/>
+  <udhr l='blu'                rfc4646bis='hmn-x-blu'  ohchr='blu'    stage='4'  pdf='y' notes='n' loc='27,104'         country='CN' region='Asia'        demo='n' n='Hmong Njua'/>
+  <udhr l='boa'                rfc4646bis=''           ohchr='boa'    stage='4'  pdf='y' notes='n' loc='-2.5,-71.5'     country='PE' region='Americas'    demo='n' n='Bora'/>
+  <udhr l='bod'                rfc4646bis='bo'         ohchr='tic'    stage='4'  pdf='y' notes='n' loc='30,90'          country='CN' region='Asia'        demo='y' n='Tibetan, Central'/>
+  <udhr l='bos' v='cyrl'       rfc4646bis='bs-Cyrl'    ohchr='src4'   stage='4'  pdf='y' notes='n' loc='44,18'          country='BA' region='Europe'      demo='n' n='Bosnian' nv='Cyrillic'/>
+  <udhr l='bos' v='latn'       rfc4646bis='bs-Latn'    ohchr='src1'   stage='4'  pdf='y' notes='n' loc='44,17'          country='BA' region='Europe'      demo='n' n='Bosnian' nv='Latin'/>
+  <udhr l='bre'                rfc4646bis='br'         ohchr='brt'    stage='4'  pdf='y' notes='n' loc='48.2,-3.5'      country='FR' region='Europe'      demo='n' n='Breton'/>
+  <udhr l='btb'                rfc4646bis=''           ohchr='btb'    stage='4'  pdf='y' notes='n' loc='3,12'           country='CM' region='Africa'      demo='n' n='Beti'/>
+  <udhr l='bug'                rfc4646bis='bug'        ohchr='bpr'    stage='4'  pdf='y' notes='n' loc='-4.5,120'       country='ID' region='Asia'        demo='n' n='Bugis'/>
+  <udhr l='bul'                rfc4646bis='bg'         ohchr='blg'    stage='4'  pdf='y' notes='n' loc='43,25'          country='BG' region='Europe'      demo='n' n='Bulgarian'/>
+  <udhr l='cab'                rfc4646bis=''           ohchr='cab'    stage='4'  pdf='y' notes='n' loc='15.8,-87'       country='HN' region='Americas'    demo='n' n='Garifuna'/>
+  <udhr l='cak'                rfc4646bis=''           ohchr='cak1'   stage='4'  pdf='y' notes='n' loc='14.5,-91'       country='GT' region='Americas'    demo='n' n='Kaqchikel, Central'/>
+  <udhr l='cat'                rfc4646bis='ca'         ohchr='cln'    stage='4'  pdf='y' notes='n' loc='41,1'           country='ES' region='Europe'      demo='n' n='Catalan-Valencian-Balear'/>
+  <udhr l='cbr'                rfc4646bis=''           ohchr='cbr'    stage='4'  pdf='y' notes='n' loc='-9,-75'         country='PE' region='Americas'    demo='n' n='Cashibo-Cacataibo'/>
+  <udhr l='cbs'                rfc4646bis=''           ohchr='cbs'    stage='4'  pdf='y' notes='n' loc='-10.5,-72'      country='PE' region='Americas'    demo='n' n='Cashinahua'/>
+  <udhr l='cbt'                rfc4646bis=''           ohchr='cbt'    stage='4'  pdf='y' notes='n' loc='-5.5,-77'       country='PE' region='Americas'    demo='n' n='Chayahuita'/>
+  <udhr l='cbu'                rfc4646bis=''           ohchr='cbu'    stage='4'  pdf='y' notes='n' loc='-4.5,-77'       country='PE' region='Americas'    demo='n' n='Candoshi-Shapra'/>
+  <udhr l='ccx'                rfc4646bis='za'         ohchr='ccx'    stage='4'  pdf='y' notes='n' loc='24,109'         country='CN' region='Asia'        demo='n' n='Zhuang, Northern'/>
+  <udhr l='ceb'                rfc4646bis='ceb'        ohchr='ceb'    stage='4'  pdf='y' notes='n' loc='10,124'         country='PH' region='Asia'        demo='n' n='Cebuano'/>
+  <udhr l='ces'                rfc4646bis='cs'         ohchr='czc'    stage='4'  pdf='y' notes='n' loc='49.5,15'        country='CZ' region='Europe'      demo='n' n='Czech'/>
+  <udhr l='cha'                rfc4646bis='ch'         ohchr='cjd'    stage='4'  pdf='y' notes='n' loc='13,144'         country='GU' region='Pacific'     demo='n' n='Chamorro'/>
+  <udhr l='chj'                rfc4646bis=''           ohchr='chj'    stage='4'  pdf='y' notes='n' loc='18.0,-96.3'     country='MX' region='Americas'    demo='n' n='Chinantec, Ojitlán'/>
+  <udhr l='chk'                rfc4646bis='chk'        ohchr='tru1'   stage='4'  pdf='y' notes='n' loc='8,152'          country='FM' region='Pacific'     demo='n' n='Chuukese'/>
+  <udhr l='chr'                rfc4646bis='chr'        ohchr=''       stage='1'  pdf='y' notes='n' loc='35,-95'         country='US' region='Americas'    demo='y' n='Cherokee'/>
+  <udhr l='cic'                rfc4646bis=''           ohchr='cic'    stage='4'  pdf='y' notes='n' loc='34.5,-97'       country='US' region='Americas'    demo='n' n='Chickasaw'/>
+  <udhr l='cjk'                rfc4646bis=''           ohchr='cjk'    stage='4'  pdf='y' notes='n' loc='-10,23'         country='CD' region='Africa'      demo='n' n='Chokwe'/>
+  <udhr l='ckb'                rfc4646bis='ku'         ohchr='kdb1'   stage='4'  pdf='y' notes='n' loc='36,44'          country='IQ' region='Asia'        demo='n' n='Kurdish, Central'/>
+  <udhr l='cmn' v='hans'       rfc4646bis='zh-Hans'    ohchr='chn'    stage='4'  pdf='y' notes='n' loc='35,115'         country='CN' region='Asia'        demo='y' n='Chinese, Mandarin (Simplified)'/>
+  <udhr l='cmn' v='hant'       rfc4646bis='zh-Hant'    ohchr=''       stage='4'  pdf='y' notes='n' loc='24,121'         country='TW' region='Asia'        demo='n' n='Chinese, Mandarin (Traditional)'/>
+  <udhr l='cni'                rfc4646bis=''           ohchr='cni'    stage='4'  pdf='y' notes='n' loc='-12,-74'        country='PE' region='Americas'    demo='n' n='Asháninka'/>
+  <udhr l='cos'                rfc4646bis='co'         ohchr='coi'    stage='4'  pdf='y' notes='n' loc='42.1,9.0'       country='FR' region='Europe'      demo='n' n='Corsican'/>
+  <udhr l='cot'                rfc4646bis=''           ohchr='cot'    stage='4'  pdf='y' notes='n' loc='-11.5,-73.5'    country='PE' region='Americas'    demo='n' n='Caquinte'/>
+  <udhr l='cpu'                rfc4646bis=''           ohchr='cpu'    stage='4'  pdf='y' notes='n' loc='-10.25,-74.5'   country='PE' region='Americas'    demo='n' n='Ashéninka, Pichis'/>
+  <udhr l='crs'                rfc4646bis=''           ohchr='crs'    stage='4'  pdf='y' notes='n' loc='-4.75,55.5'     country='SC' region='Africa'      demo='n' n='Seselwa Creole French'/>
+  <udhr l='csa'                rfc4646bis=''           ohchr='csa'    stage='4'  pdf='y' notes='n' loc='18.0,-95.8'     country='MX' region='Americas'    demo='n' n='Chinantec, Chiltepec'/>
+  <udhr l='csw'                rfc4646bis='cr-csw?'    ohchr='crm'    stage='4'  pdf='y' notes='n' loc='55,-95'         country='CA' region='Americas'    demo='y' n='Cree, Swampy'/>
+  <udhr l='cym'                rfc4646bis='cy'         ohchr='wls'    stage='4'  pdf='y' notes='n' loc='52.5,-4'        country='GB' region='Europe'      demo='n' n='Welsh'/>
+  <udhr l='dag'                rfc4646bis=''           ohchr='dag'    stage='4'  pdf='y' notes='n' loc='9.5,-0.5'       country='GH' region='Africa'      demo='n' n='Dagbani'/>
+  <udhr l='dan'                rfc4646bis='da'         ohchr='dns'    stage='4'  pdf='y' notes='n' loc='56.5,9'         country='DK' region='Europe'      demo='n' n='Danish'/>
+  <udhr l='ddn'                rfc4646bis=''           ohchr='den'    stage='4'  pdf='y' notes='n' loc='11.6,3.4'       country='BJ' region='Africa'      demo='n' n='Dendi'/>
+  <udhr l='deu' v='1901'       rfc4646bis='de-1901'    ohchr='ger'    stage='4'  pdf='y' notes='y' loc='50,9'           country='DE' region='Europe'      demo='n' n='German, Standard (1901)'/>
+  <udhr l='deu' v='1996'       rfc4646bis='de-1996'    ohchr=''       stage='4'  pdf='y' notes='y' loc='50,10'          country='DE' region='Europe'      demo='n' n='German, Standard (1996)'/>
+  <udhr l='dga'                rfc4646bis=''           ohchr='dga'    stage='4'  pdf='y' notes='n' loc='10.5,-2.5'      country='GH' region='Africa'      demo='n' n='Dagaare, Southern'/>
+  <udhr l='div'                rfc4646bis=''           ohchr=''       stage='1'  pdf='y' notes='n' loc='4.17,75.31'     country='MV' region='Asia'        demo='y' n='Maldivian'/>
+  <udhr l='dyo'                rfc4646bis=''           ohchr='dyo'    stage='4'  pdf='y' notes='n' loc='13,-16.5'       country='SN' region='Africa'      demo='n' n='Jola-Fonyi'/>
+  <udhr l='dzo'                rfc4646bis='dz'         ohchr='dzo'    stage='3'  pdf='y' notes='n' loc='27,90'          country='BT' region='Asia'        demo='n' n='Dzongkha'/>
+  <udhr l='ell'  v='monotonic' rfc4646bis='el-monoton' ohchr='grk'    stage='4'  pdf='y' notes='n' loc='39,21'          country='GR' region='Europe'      demo='n' n='Greek (monotonic)'/>
+  <udhr l='ell'  v='polytonic' rfc4646bis='el-polyton' ohchr=''       stage='4'  pdf='y' notes='n' loc='39,22'          country='GR' region='Europe'      demo='y' n='Greek (polytonic)'/>
+  <udhr l='emk'                rfc4646bis=''           ohchr='mni'    stage='4'  pdf='y' notes='n' loc='11,-11.5'       country='GN' region='Africa'      demo='n' n='Maninkakan, Eastern'/>
+  <udhr l='eml'                rfc4646bis=''           ohchr='eml'    stage='4'  pdf='y' notes='n' loc='44.5,11'        country='IT' region='Europe'      demo='n' n='Emiliano-Romagnolo'/>
+  <udhr l='eng'                rfc4646bis='en'         ohchr='eng'    stage='5'  pdf='y' notes='n' loc='52,0'           country='UK' region='Europe'      demo='y' n='English'/>
+  <udhr l='epo'                rfc4646bis='eo'         ohchr='1115'   stage='4'  pdf='y' notes='n' loc='-75,00'         country='FR' region='Other'       demo='n' n='Esperanto'/>
+  <udhr l='est'                rfc4646bis='et'         ohchr='est'    stage='4'  pdf='y' notes='n' loc='59,26'          country='EE' region='Europe'      demo='n' n='Estonian'/>
+  <udhr l='eve'                rfc4646bis=''           ohchr='eve'    stage='4'  pdf='y' notes='n' loc='55,157'         country='RU' region='Asia'        demo='n' n='Even'/>
+  <udhr l='eus'                rfc4646bis='eu'         ohchr='bsq'    stage='4'  pdf='y' notes='n' loc='43,-2'          country='ES' region='Europe'      demo='n' n='Basque'/>
+  <udhr l='ewe'                rfc4646bis='ee'         ohchr='ewe'    stage='4'  pdf='y' notes='n' loc='6,1'            country='GH' region='Africa'      demo='n' n='Éwé'/>
+  <udhr l='fao'                rfc4646bis='fo'         ohchr='fae'    stage='4'  pdf='y' notes='n' loc='62,-7'          country='DK' region='Europe'      demo='n' n='Faroese'/>
+  <udhr l='fij'                rfc4646bis='fj'         ohchr='fji'    stage='4'  pdf='y' notes='n' loc='-18,178'        country='FJ' region='Pacific'     demo='n' n='Fijian'/>
+  <udhr l='fin'                rfc4646bis='fi'         ohchr='fin'    stage='4'  pdf='y' notes='n' loc='65,28'          country='FI' region='Europe'      demo='n' n='Finnish'/>
+  <udhr l='fon'                rfc4646bis='fon'        ohchr='foa'    stage='4'  pdf='y' notes='n' loc='7.3,2.4'        country='BJ' region='Africa'      demo='n' n='Fon'/>
+  <udhr l='fra'                rfc4646bis='fr'         ohchr='frn'    stage='5'  pdf='y' notes='y' loc='47.5,2.0'       country='FR' region='Europe'      demo='n' n='French'/>
+  <udhr l='fri'                rfc4646bis='fy'         ohchr='fri'    stage='4'  pdf='y' notes='n' loc='53,6'           country='NL' region='Europe'      demo='n' n='Frisian, Western'/>
+  <udhr l='fuc'                rfc4646bis='ff-fuc?'    ohchr='fum1'   stage='4'  pdf='y' notes='n' loc='15,-14'         country='SN' region='Africa'      demo='n' n='Pulaar'/>
+  <udhr l='fur'                rfc4646bis='fur'        ohchr='frl'    stage='4'  pdf='y' notes='n' loc='46.5,13'        country='IT' region='Europe'      demo='n' n='Friulian'/>
+  <udhr l='gaa'                rfc4646bis='gaa'        ohchr='gac2'   stage='4'  pdf='y' notes='n' loc='5.5,-0.3'       country='GH' region='Africa'      demo='n' n='Ga'/>
+  <udhr l='gag'                rfc4646bis=''           ohchr='gag'    stage='4'  pdf='y' notes='n' loc='47,29'          country='MD' region='Europe'      demo='n' n='Gagauz'/>
+  <udhr l='gax'                rfc4646bis='om'         ohchr='gax'    stage='4'  pdf='y' notes='n' loc='10.2,38.5'      country='ET' region='Africa'      demo='n' n='Oromo, Borana-Arsi-Guji'/>
+  <udhr l='gjn'                rfc4646bis=''           ohchr='dum'    stage='4'  pdf='y' notes='n' loc='9,-1'           country='GH' region='Africa'      demo='n' n='Gonja'/>
+  <udhr l='gkp'                rfc4646bis='kpe'        ohchr='gkp1'   stage='4'  pdf='y' notes='n' loc='8,-9'           country='GN' region='Africa'      demo='n' n='Kpelle, Guinea'/>
+  <udhr l='gla'                rfc4646bis='gd'         ohchr='gls'    stage='4'  pdf='y' notes='n' loc='58,-6'          country='UK' region='Europe'      demo='n' n='Gaelic, Scottish'/>
+  <udhr l='gle'                rfc4646bis='ga'         ohchr='gli1'   stage='4'  pdf='y' notes='n' loc='54,-10'         country='IE' region='Europe'      demo='n' n='Gaelic, Irish'/>
+  <udhr l='glg'                rfc4646bis='gl'         ohchr='gln'    stage='4'  pdf='y' notes='n' loc='43,-8'          country='ES' region='Europe'      demo='n' n='Galician'/>
+  <udhr l='guc'                rfc4646bis=''           ohchr='guc'    stage='4'  pdf='y' notes='n' loc='12,-72'         country='CO' region='Americas'    demo='n' n='Wayuu'/>
+  <udhr l='gug'                rfc4646bis='gn'         ohchr='gun'    stage='4'  pdf='y' notes='n' loc='-24,-58'        country='PY' region='Americas'    demo='n' n='Guaraní, Paraguayan'/>
+  <udhr l='guj'                rfc4646bis='gu'         ohchr='gjr'    stage='4'  pdf='y' notes='n' loc='23,72'          country='IN' region='Asia'        demo='y' n='Gujarati'/>
+  <udhr l='hat' v='kreyol'     rfc4646bis='ht-?'       ohchr='hat'    stage='4'  pdf='y' notes='n' loc='19,-72'         country='HT' region='Americas'    demo='n' n='Haitian Creole French' nv='Kreyol'/>
+  <udhr l='hat' v='popular'    rfc4646bis='ht-?'       ohchr='hat1'   stage='4'  pdf='y' notes='n' loc='19,-73'         country='HT' region='Americas'    demo='n' n='Haitian Creole French' nv='Popular'/>
+  <udhr l='hau' v='NE'         rfc4646bis='ha-NE'      ohchr='gej'    stage='4'  pdf='y' notes='n' loc='15,6'           country='NE' region='Africa'      demo='n' n='Hausa (Niger)'/>
+  <udhr l='hau' v='NG'         rfc4646bis='ha-NG'      ohchr='gej'    stage='4'  pdf='y' notes='n' loc='12,6'           country='NG' region='Africa'      demo='n' n='Hausa (Nigeria)'/>
+  <udhr l='haw'                rfc4646bis='haw'        ohchr='hwi'    stage='4'  pdf='y' notes='n' loc='20,-155'        country='US' region='Pacific'     demo='n' n='Hawaiian'/>
+  <udhr l='hea'                rfc4646bis='hmn-hea?'   ohchr='hea'    stage='4'  pdf='y' notes='n' loc='25,104'         country='CN' region='Asia'        demo='n' n='Hmong, Northern Qiandong'/>
+  <udhr l='heb'                rfc4646bis='he'         ohchr='hbr'    stage='4'  pdf='y' notes='n' loc='32,35'          country='IL' region='Asia'        demo='y' n='Hebrew'/>
+  <udhr l='hil'                rfc4646bis='hil'        ohchr='hil'    stage='4'  pdf='y' notes='n' loc='11,123'         country='PH' region='Asia'        demo='n' n='Hiligaynon'/>
+  <udhr l='hin'                rfc4646bis='hi'         ohchr='hnd'    stage='4'  pdf='y' notes='y' loc='28,77'          country='IN' region='Asia'        demo='y' n='Hindi'/>
+  <udhr l='hms'                rfc4646bis='hmn-hms?'   ohchr='hms'    stage='4'  pdf='y' notes='n' loc='25,107'         country='CN' region='Asia'        demo='n' n='Hmong, Southern Qiandong'/>
+  <udhr l='hna'                rfc4646bis=''           ohchr='hna'    stage='4'  pdf='y' notes='n' loc='10.3,14'        country='CM' region='Africa'      demo='n' n='Mina'/>
+  <udhr l='hni'                rfc4646bis=''           ohchr='hni'    stage='4'  pdf='y' notes='n' loc='24,101'         country='CN' region='Asia'        demo='n' n='Hani'/>
+  <udhr l='hrv'                rfc4646bis='hr'         ohchr='src2'   stage='4'  pdf='y' notes='n' loc='46,17'          country='HR' region='Europe'      demo='n' n='Croatian'/>
+  <udhr l='hsb'                rfc4646bis='hsb'        ohchr='wee'    stage='4'  pdf='y' notes='n' loc='51,14'          country='DE' region='Europe'      demo='n' n='Sorbian, Upper'/>
+  <udhr l='hun'                rfc4646bis='hu'         ohchr='hng'    stage='4'  pdf='y' notes='n' loc='47,18'          country='HU' region='Europe'      demo='n' n='Hungarian'/>
+  <udhr l='hus'                rfc4646bis=''           ohchr='1118'   stage='4'  pdf='y' notes='n' loc='21.0,-98.0'     country='MX' region='Americas'    demo='n' n='Huastec, Veracruz'/>
+  <udhr l='huu'                rfc4646bis=''           ohchr='huu'    stage='4'  pdf='y' notes='n' loc='-1.8,-73.5'     country='PE' region='Americas'    demo='n' n='Huitoto, Murui'/>
+  <udhr l='hva'                rfc4646bis=''           ohchr='hva'    stage='4'  pdf='y' notes='n' loc='22.0,-99.0'     country='MX' region='Americas'    demo='n' n='Huastec, San Luís Potosí'/>
+  <udhr l='hye'                rfc4646bis='hy'         ohchr='arm'    stage='4'  pdf='y' notes='n' loc='40,45'          country='AM' region='Asia'        demo='y' n='Armenian'/>
+  <udhr l='ibb'                rfc4646bis=''           ohchr='ibb'    stage='4'  pdf='y' notes='n' loc='5,7.5'          country='NG' region='Africa'      demo='n' n='Ibibio'/>
+  <udhr l='ibo'                rfc4646bis='ig'         ohchr='igr'    stage='4'  pdf='y' notes='n' loc='6.5,7.5'        country='NG' region='Africa'      demo='n' n='Igbo'/>
+  <udhr l='ido'                rfc4646bis='io'         ohchr='1120'   stage='4'  pdf='y' notes='n' loc='-75,20'          country='  ' region='Other'       demo='n' n='Ido'/>
+  <udhr l='iii'                rfc4646bis='ii'         ohchr='iii'    stage='3'  pdf='y' notes='n' loc='28,102'         country='CN' region='Asia'        demo='y' n='Yi, Sichuan'/>
+  <udhr l='ike'                rfc4646bis='iu'         ohchr='esb'    stage='4'  pdf='y' notes='n' loc='65,-95'         country='CA' region='Americas'    demo='n' n='Inuktitut, Eastern Canadian'/>
+  <udhr l='ilo'                rfc4646bis=''           ohchr='ilo'    stage='4'  pdf='y' notes='n' loc='19,121'         country='PH' region='Asia'        demo='n' n='Ilocano'/>
+  <udhr l='ina'                rfc4646bis='ia'         ohchr='1119'   stage='4'  pdf='y' notes='n' loc='-75,10'         country='FR' region='Other'       demo='n' n='Interlingua'/>
+  <udhr l='ind'                rfc4646bis='id'         ohchr='inz'    stage='4'  pdf='y' notes='n' loc='-5,105'         country='ID' region='Asia'        demo='n' n='Indonesian'/>
+  <udhr l='isl'                rfc4646bis='is'         ohchr='ice'    stage='4'  pdf='y' notes='n' loc='65,-20'         country='IS' region='Europe'      demo='n' n='Icelandic'/>
+  <udhr l='ita'                rfc4646bis='it'         ohchr='itn'    stage='4'  pdf='y' notes='n' loc='40,16'          country='IT' region='Europe'      demo='n' n='Italian'/>
+  <udhr l='jav'                rfc4646bis='jv'         ohchr='jan'    stage='4'  pdf='y' notes='n' loc='-7,110'         country='ID' region='Asia'        demo='n' n='Javanese'/>
+  <udhr l='jpn'                rfc4646bis='ja'         ohchr='jpn'    stage='4'  pdf='y' notes='n' loc='37,140'         country='JA' region='Asia'        demo='y' n='Japanese'/>
+  <udhr l='kal'                rfc4646bis='kl'         ohchr='esg'    stage='4'  pdf='y' notes='n' loc='63,-45'         country='GL' region='Americas'    demo='n' n='Inuktitut, Greenlandic'/>
+  <udhr l='kan'                rfc4646bis='kn'         ohchr='kjv'    stage='4'  pdf='y' notes='n' loc='14,77'          country='IN' region='Asia'        demo='y' n='Kannada'/>
+  <udhr l='kas'                rfc4646bis='ks'         ohchr='ksh'    stage='2'  pdf='n' notes='n' loc='32,75'          country='IN' region='Asia'        demo='n' n='Kashmiri'/>
+  <udhr l='kat'                rfc4646bis='ka'         ohchr='geo'    stage='4'  pdf='y' notes='n' loc='43,41'          country='GE' region='Asia'        demo='y' n='Georgian'/>
+  <udhr l='kaz'                rfc4646bis='kk'         ohchr='kaz'    stage='4'  pdf='y' notes='n' loc='48,76'          country='KZ' region='Asia'        demo='n' n='Kazakh'/>
+  <udhr l='kbp'                rfc4646bis=''           ohchr='kbp'    stage='4'  pdf='y' notes='n' loc='7,1'            country='TG' region='Africa'      demo='n' n='Kabiyé'/>
+  <udhr l='kde'                rfc4646bis=''           ohchr='kde'    stage='4'  pdf='y' notes='n' loc='-10.5,39.5'     country='TZ' region='Africa'      demo='n' n='Makonde'/>
+  <udhr l='kek'                rfc4646bis=''           ohchr='1116'   stage='4'  pdf='y' notes='n' loc='14.50,-91.00'   country='GT' region='Americas'    demo='n' n='Q&apos;eqchi&apos;'/>
+  <udhr l='khk'                rfc4646bis='mn-Cyrl'    ohchr='khk'    stage='4'  pdf='y' notes='n' loc='48,108'         country='MN' region='Asia'        demo='n' n='Mongolian, Halh (Cyrillic)'/>
+  <udhr l='khk'  v='mong'      rfc4646bis='mn-Mong'    ohchr=''       stage='1'  pdf='n' notes='n' loc='48,109'         country='MN' region='Asia'        demo='n' n='Mongolian, Halh (Mongolian)'/>
+  <udhr l='khm'                rfc4646bis='km'         ohchr='kmr'    stage='4'  pdf='n' notes='n' loc='12,105'         country='KH' region='Asia'        demo='y' n='Khmer, Central'/>
+  <udhr l='kin'                rfc4646bis='rw'         ohchr='rua1'   stage='4'  pdf='y' notes='n' loc='-2,30'          country='RW' region='Africa'      demo='n' n='Rwanda'/>
+  <udhr l='kir'                rfc4646bis='ky'         ohchr='kdo'    stage='4'  pdf='y' notes='n' loc='42,75'          country='KG' region='Asia'        demo='n' n='Kirghiz'/>
+  <udhr l='kmb'                rfc4646bis=''           ohchr='mlo'    stage='4'  pdf='y' notes='n' loc='-9,15'          country='AO' region='Africa'      demo='n' n='Mbundu'/>
+  <udhr l='knc'                rfc4646bis=''           ohchr='kph'    stage='4'  pdf='y' notes='n' loc='12,13'          country='NG' region='Africa'      demo='n' n='Kanuri, Central'/>
+  <udhr l='kng'                rfc4646bis='kg'         ohchr='kon'    stage='4'  pdf='y' notes='n' loc='-4,21'          country='CD' region='Africa'      demo='n' n='Koongo'/>
+  <udhr l='koo'                rfc4646bis=''           ohchr='koo1'   stage='4'  pdf='y' notes='n' loc='0,30'           country='UG' region='Africa'      demo='n' n='Konjo'/>
+  <udhr l='kor'                rfc4646bis='ko'         ohchr='kkn'    stage='4'  pdf='y' notes='n' loc='36,128'         country='KR' region='Asia'        demo='y' n='Korean'/>
+  <udhr l='kqn'                rfc4646bis=''           ohchr='kqn'    stage='4'  pdf='y' notes='n' loc='-13,26'         country='ZM' region='Africa'      demo='n' n='Kaonde'/>
+  <udhr l='kri'                rfc4646bis=''           ohchr='kri'    stage='4'  pdf='y' notes='n' loc='8.5,-13.2'      country='SL' region='Africa'      demo='n' n='Krio'/>
+  <udhr l='ksw'                rfc4646bis='kar-ksw?'   ohchr='ksw'    stage='2'  pdf='n' notes='n' loc='24,96'          country='MM' region='Asia'        demo='n' n='Karen, S&apos;gaw'/>
+  <udhr l='ktu'                rfc4646bis=''           ohchr='ktu'    stage='4'  pdf='y' notes='n' loc='-7,28'          country='CD' region='Africa'      demo='n' n='Kituba'/>
+  <udhr l='lao'                rfc4646bis='lo'         ohchr='nol'    stage='4'  pdf='y' notes='n' loc='19,103'         country='LA' region='Asia'        demo='y' n='Lao'/>
+  <udhr l='lat'                rfc4646bis='la-x-2'     ohchr='ltn'    stage='4'  pdf='y' notes='n' loc='41.9,13.1'      country='VA' region='Europe'      demo='n' n='Latin'/>
+  <udhr l='lat' v='1'          rfc4646bis='la-x-1'     ohchr='ltn1'   stage='4'  pdf='y' notes='n' loc='41.9,12.1'      country='VA' region='Europe'      demo='n' n='Latin' nv='1'/>
+  <udhr l='lav'                rfc4646bis='lv'         ohchr='lat'    stage='4'  pdf='y' notes='n' loc='57,24'          country='LV' region='Europe'      demo='n' n='Latvian'/>
+  <udhr l='lia'                rfc4646bis=''           ohchr='lia'    stage='4'  pdf='y' notes='n' loc='9.5,-12.3'      country='SL' region='Africa'      demo='n' n='Limba, West-Central'/>
+  <udhr l='lin'                rfc4646bis='ln'         ohchr='lin'    stage='4'  pdf='y' notes='n' loc='-2,20'          country='CD' region='Africa'      demo='n' n='Lingala'/>
+  <udhr l='lin'  v='tones'     rfc4646bis='ln-x-tones' ohchr=''       stage='4'  pdf='y' notes='n' loc='-2,21'          country='CD' region='Africa'      demo='n' n='Lingala (tones)'/>
+  <udhr l='lit'                rfc4646bis='lt'         ohchr='lit'    stage='4'  pdf='y' notes='n' loc='55,25'          country='LT' region='Europe'      demo='n' n='Lithuanian'/>
+  <udhr l='lnc'                rfc4646bis='oc-lnc?'    ohchr='prv1'   stage='4'  pdf='y' notes='n' loc='43.7,2.1'       country='FR' region='Europe'      demo='n' n='Languedocien'/>
+  <udhr l='lns'                rfc4646bis=''           ohchr='nso'    stage='4'  pdf='y' notes='n' loc='6.2,10.6'       country='CM' region='Africa'      demo='n' n='Lamnso&apos;'/>
+  <udhr l='loz'                rfc4646bis=''           ohchr='lbm1'   stage='4'  pdf='y' notes='n' loc='-16,23'         country='ZM' region='Africa'      demo='n' n='Lozi'/>
+  <udhr l='ltz'                rfc4646bis='lb'         ohchr='lux'    stage='4'  pdf='y' notes='n' loc='49.5,6.2'       country='LU' region='Europe'      demo='n' n='Luxembourgeois'/>
+  <udhr l='lua'                rfc4646bis=''           ohchr='lub'    stage='4'  pdf='y' notes='n' loc='-6,22'          country='CD' region='Africa'      demo='n' n='Luba-Kasai'/>
+  <udhr l='lue'                rfc4646bis=''           ohchr='lue'    stage='4'  pdf='y' notes='n' loc='-14,23'         country='ZM' region='Africa'      demo='n' n='Luvale'/>
+  <udhr l='lug'                rfc4646bis='lg'         ohchr='lap1'   stage='4'  pdf='y' notes='n' loc='0.5,32'         country='UG' region='Africa'      demo='n' n='Ganda'/>
+  <udhr l='lun'                rfc4646bis='lun'        ohchr='mlo1'   stage='4'  pdf='y' notes='n' loc='-12,25'         country='ZM' region='Africa'      demo='n' n='Lunda'/>
+  <udhr l='mad'                rfc4646bis='mad'        ohchr='mhj'    stage='4'  pdf='y' notes='n' loc='-7,113.5'       country='ID' region='Asia'        demo='n' n='Madura'/>
+  <udhr l='mag'                rfc4646bis='mag'        ohchr='mqm'    stage='4'  pdf='y' notes='n' loc='24,84'          country='IN' region='Asia'        demo='n' n='Magahi'/>
+  <udhr l='mah'                rfc4646bis='mh'         ohchr='mzm'    stage='4'  pdf='y' notes='n' loc='7,173'          country='MH' region='Pacific'     demo='n' n='Marshallese'/>
+  <udhr l='mai'                rfc4646bis=''           ohchr=''       stage='4'  pdf='y' notes='n' loc='26.4,86.1'      country='IN' region='Asia'        demo='n' n='Maithili'/>
+  <udhr l='mal'                rfc4646bis='ml'         ohchr='mjs'    stage='4'  pdf='n' notes='n' loc='9,77'           country='IN' region='Asia'        demo='n' n='Malayalam'/>
+  <udhr l='mam'                rfc4646bis=''           ohchr='mam'    stage='4'  pdf='y' notes='n' loc='15.5,-92'       country='GT' region='Americas'    demo='n' n='Mam, Northern'/>
+  <udhr l='mar'                rfc4646bis='mr'         ohchr='mrt'    stage='4'  pdf='y' notes='n' loc='19,74'          country='IN' region='Asia'        demo='n' n='Marathi'/>
+  <udhr l='maz'                rfc4646bis=''           ohchr='maz'    stage='4'  pdf='y' notes='n' loc='19.8,-100.0'    country='MX' region='Americas'    demo='n' n='Mazahua Central'/>
+  <udhr l='mcd'                rfc4646bis=''           ohchr='mcd'    stage='4'  pdf='y' notes='n' loc='-10,-70'        country='PE' region='Americas'    demo='n' n='Sharanahua'/>
+  <udhr l='mcf'                rfc4646bis=''           ohchr='mcf'    stage='4'  pdf='y' notes='n' loc='-5.5,-73'       country='PE' region='Americas'    demo='n' n='Matsés'/>
+  <udhr l='men'                rfc4646bis='men'        ohchr='mfy'    stage='4'  pdf='y' notes='n' loc='7.5,-11.5'      country='SL' region='Africa'      demo='n' n='Mende'/>
+  <udhr l='mic'                rfc4646bis='mic'        ohchr='mic'    stage='4'  pdf='y' notes='n' loc='46,-67'         country='CA' region='Americas'    demo='n' n='Micmac'/>
+  <udhr l='min'                rfc4646bis=''           ohchr='mpu'    stage='4'  pdf='y' notes='n' loc='0,100'          country='ID' region='Asia'        demo='n' n='Minangkabau'/>
+  <udhr l='miq'                rfc4646bis=''           ohchr='miq'    stage='4'  pdf='y' notes='n' loc='14,-83.5'       country='NI' region='America'     demo='n' n='Mískito'/>
+  <udhr l='mkd'                rfc4646bis='mk'         ohchr='mkj'    stage='4'  pdf='y' notes='n' loc='42,22'          country='MK' region='Europe'      demo='n' n='Macedonian'/>
+  <udhr l='mlt'                rfc4646bis='mt'         ohchr='mls'    stage='4'  pdf='y' notes='n' loc='35.9,14.5'      country='MT' region='Europe'      demo='n' n='Maltese'/>
+  <udhr l='mly' v='latn'       rfc4646bis='ms-Latn'    ohchr='mli'    stage='4'  pdf='y' notes='n' loc='5,102'          country='MY' region='Asia'        demo='n' n='Malay (Latin)'/>
+  <udhr l='mly' v='arab'       rfc4646bis='ms-Arab'    ohchr=''       stage='4'  pdf='y' notes='n' loc='4,102'          country='MY' region='Asia'        demo='n' n='Malay (Arabic)'/>
+  <udhr l='mos'                rfc4646bis=''           ohchr='mhm'    stage='4'  pdf='y' notes='n' loc='13,-1'          country='BF' region='Africa'      demo='n' n='Mòoré'/>
+  <udhr l='mri'                rfc4646bis='mi'         ohchr='mbf'    stage='4'  pdf='y' notes='n' loc='-38,176'        country='NZ' region='Pacific'     demo='n' n='Maori'/>
+  <udhr l='mve'                rfc4646bis='mwr'        ohchr='mkd'    stage='2'  pdf='n' notes='n' loc='27,70'          country='PK' region='Asia'        demo='n' n='Marwari'/>
+  <udhr l='mxv'                rfc4646bis=''           ohchr='mxv'    stage='4'  pdf='y' notes='n' loc='17.0,-98.5'     country='MX' region='Americas'    demo='n' n='Mixtec, Metlatónoc'/>
+<!--
+  <udhr l='mya' v='unicode5'   rfc4646bis='my-x-u5'    ohchr='bms'    stage='4'  pdf='n' notes='y' loc='22,96'          country='MM' region='Asia'        demo='n' n='Burmese (Unicode 5)'/>
+  <udhr l='mya' v='unicode6'   rfc4646bis='my-x-u6'    ohchr='bms'    stage='4'  pdf='n' notes='y' loc='22,96'          country='MM' region='Asia'        demo='n' n='Burmese (Unicode 6)'/>
+-->
+  <udhr l='mya'                rfc4646bis='my'         ohchr='bms'    stage='4'  pdf='y' notes='n' loc='22,95'          country='MM' region='Asia'        demo='y' n='Burmese'/>
+  <udhr l='mzi'                rfc4646bis=''           ohchr='mao'    stage='4'  pdf='y' notes='n' loc='18.2,-96.5'     country='MX' region='Americas'    demo='n' n='Mazatec, Ixcatlán'/>
+  <udhr l='nav'                rfc4646bis='nv'         ohchr='nav'    stage='4'  pdf='y' notes='n' loc='36,-110'        country='US' region='Americas'    demo='n' n='Navajo'/>
+  <udhr l='nba'                rfc4646bis=''           ohchr='nba'    stage='4'  pdf='y' notes='n' loc='-16,18'         country='AO' region='Africa'      demo='n' n='Nyemba'/>
+  <udhr l='nbl'                rfc4646bis='nr'         ohchr='nel'    stage='4'  pdf='y' notes='n' loc='-32,28'         country='ZA' region='Africa'      demo='n' n='Ndebele'/>
+  <udhr l='ndo'                rfc4646bis='ng'         ohchr='1114'   stage='4'  pdf='y' notes='n' loc='-22,17'         country='NA' region='Africa'      demo='n' n='Ndonga'/>
+  <udhr l='nep'                rfc4646bis='ne'         ohchr='nep'    stage='4'  pdf='y' notes='n' loc='27.5,85'        country='NP' region='Asia'        demo='n' n='Nepali'/>
+  <udhr l='nhn'                rfc4646bis='nah'        ohchr='nhn'    stage='4'  pdf='y' notes='n' loc='19.0,-98.2'     country='MX' region='Americas'    demo='n' n='Nahuatl, Central'/>
+  <udhr l='nld'                rfc4646bis='nl'         ohchr='dut'    stage='4'  pdf='y' notes='n' loc='52,5'           country='NL' region='Europe'      demo='n' n='Dutch'/>
+  <udhr l='nno'                rfc4646bis='nn'         ohchr='nrn'    stage='4'  pdf='y' notes='n' loc='61,11'          country='NO' region='Europe'      demo='n' n='Norwegian, Nynorsk'/>
+  <udhr l='nob'                rfc4646bis='nb'         ohchr='nrr'    stage='4'  pdf='y' notes='n' loc='61,8'           country='NO' region='Europe'      demo='n' n='Norwegian, Bokmål'/>
+  <udhr l='not'                rfc4646bis=''           ohchr='not'    stage='4'  pdf='y' notes='n' loc='-10.8,-74.2'    country='PE' region='Americas'    demo='n' n='Nomatsiguenga'/>
+  <udhr l='nso'                rfc4646bis='nso'        ohchr='srt'    stage='4'  pdf='y' notes='n' loc='-29,28'         country='ZA' region='Africa'      demo='n' n='Sotho, Northern'/>
+  <udhr l='nya' v='chechewa'   rfc4646bis='ny-?'       ohchr='nyj1'   stage='4'  pdf='y' notes='n' loc='-14,34'         country='MW' region='Africa'      demo='n' n='Nyanja' nv='Chechewa'/>
+  <udhr l='nya' v='chinyanja'  rfc4646bis='ny-?'       ohchr='nyj'    stage='4'  pdf='y' notes='n' loc='-13,33.5'       country='MW' region='Africa'      demo='n' n='Nyanja' nv='Chinyanja'/>
+  <udhr l='nym'                rfc4646bis='nym'        ohchr='nyz'    stage='4'  pdf='y' notes='n' loc='-5,33'          country='TZ' region='Africa'      demo='n' n='Nyamwezi'/>
+  <udhr l='nyn'                rfc4646bis='nyn'        ohchr='nyn1'   stage='4'  pdf='y' notes='n' loc='-0.5,30.5'      country='UG' region='Africa'      demo='n' n='Nyankore'/>
+  <udhr l='nzi'                rfc4646bis='nzi'        ohchr='nze'    stage='4'  pdf='y' notes='n' loc='5,-2.5'         country='GH' region='Africa'      demo='n' n='Nzema'/>
+  <udhr l='ojb'                rfc4646bis='oj'         ohchr='ojb'    stage='4'  pdf='y' notes='n' loc='50,-85'         country='CA' region='Americas'    demo='n' n='Ojibwa, Northwestern'/>
+  <udhr l='ori'                rfc4646bis='or'         ohchr='ory'    stage='2'  pdf='n' notes='n' loc='18,82'          country='IN' region='Asia'        demo='n' n='Oriya'/>
+  <udhr l='oss'                rfc4646bis='os'         ohchr='ose'    stage='4'  pdf='y' notes='n' loc='43,42'          country='GE' region='Asia'        demo='n' n='Osetin'/>
+  <udhr l='ote'                rfc4646bis=''           ohchr='1111'   stage='4'  pdf='y' notes='n' loc='20.1,-99.5'     country='MX' region='Americas'    demo='n' n='Otomi, Mezquital'/>
+  <udhr l='pam'                rfc4646bis='pam'        ohchr='pmp'    stage='4'  pdf='y' notes='n' loc='15.5,120.5'     country='PH' region='Asia'        demo='n' n='Pampangan'/>
+  <udhr l='pan'                rfc4646bis='pa'         ohchr=''       stage='1'  pdf='y' notes='n' loc='30,72'          country='PK' region='Asia'        demo='y' n='Panjabi, Eastern'/>
+  <udhr l='pau'                rfc4646bis='pau'        ohchr='plu'    stage='4'  pdf='y' notes='n' loc='8,135'          country='PW' region='Pacific'     demo='n' n='Palauan'/>
+  <udhr l='pbb'                rfc4646bis=''           ohchr='pbb'    stage='4'  pdf='y' notes='n' loc='2.5,-77'        country='CO' region='Americas'    demo='n' n='Páez'/>
+  <udhr l='pbu'                rfc4646bis='ps'         ohchr='pbu'    stage='3'  pdf='y' notes='n' loc='32,68'          country='PK' region='Asia'        demo='n' n='Pashto, Northern'/>
+  <udhr l='pcd'                rfc4646bis=''           ohchr='frn2'   stage='4'  pdf='y' notes='n' loc='50.0,2.5'       country='FR' region='Europe'      demo='n' n='Picard'/>
+  <udhr l='pcm'                rfc4646bis=''           ohchr='pcm'    stage='4'  pdf='y' notes='n' loc='5,6'            country='NG' region='Africa'      demo='n' n='Pidgin, Nigerian'/>
+  <udhr l='pis'                rfc4646bis=''           ohchr='pis'    stage='4'  pdf='y' notes='n' loc='-10,160'        country='SB' region='Pacific'     demo='n' n='Pijin'/>
+  <udhr l='plt'                rfc4646bis='mg'         ohchr='mex'    stage='4'  pdf='y' notes='n' loc='-20,49'         country='MG' region='Africa'      demo='n' n='Malagasy, Plateau'/>
+  <udhr l='pnb'                rfc4646bis='lah-pnb?'   ohchr='pnj1'   stage='4'  pdf='y' notes='n' loc='30,71'          country='IN' region='Asia'        demo='n' n='Panjabi, Western'/>
+  <udhr l='pol'                rfc4646bis='pl'         ohchr='pql'    stage='4'  pdf='y' notes='n' loc='53,20'          country='PL' region='Europe'      demo='n' n='Polish'/>
+  <udhr l='pon'                rfc4646bis='pon'        ohchr='pnf'    stage='4'  pdf='y' notes='n' loc='7,158'          country='FM' region='Pacific'     demo='n' n='Pohnpeian'/>
+  <udhr l='por'  v='BR'        rfc4646bis='pt-BR'      ohchr=''       stage='5'  pdf='y' notes='n' loc='-15,-47'        country='BR' region='Americas'    demo='n' n='Portuguese (Brazil)'/>
+  <udhr l='por'  v='PT'        rfc4646bis='pt-PT'      ohchr='por'    stage='5'  pdf='y' notes='n' loc='40,-8'          country='PT' region='Europe'      demo='n' n='Portuguese (Portugal)'/>
+  <udhr l='ppl'                rfc4646bis=''           ohchr='ppl'    stage='4'  pdf='y' notes='n' loc='13.7,-89.5'     country='SV' region='Americas'    demo='n' n='Pipil'/>
+  <udhr l='prd'                rfc4646bis='fa-x-2'     ohchr='prs1'   stage='2'  pdf='n' notes='n' loc='35,56'          country='IR' region='Asia'        demo='n' n='Parsi-Dari'/>
+  <udhr l='prq'                rfc4646bis=''           ohchr='cpp'    stage='4'  pdf='y' notes='n' loc='-11,-75'        country='PE' region='Americas'    demo='n' n='Ashéninka Perené'/>
+  <udhr l='prs'                rfc4646bis='fa-x-1'     ohchr='prs'    stage='4'  pdf='y' notes='n' loc='35,55'          country='AF' region='Asia'        demo='n' n='Farsi, Eastern'/>
+  <udhr l='pwo'                rfc4646bis='kar-pwo?'   ohchr='pwo'    stage='2'  pdf='n' notes='n' loc='24,95'          country='MM' region='Asia'        demo='n' n='Karen, Pwo Western'/>
+  <udhr l='quc'                rfc4646bis=''           ohchr='1117'   stage='4'  pdf='y' notes='n' loc='14.50,-90.00'   country='GT' region='Americas'    demo='n' n='K&apos;iche&apos;, Central'/>
+  <udhr l='qud'                rfc4646bis='qu-qud?'    ohchr='qud1'   stage='4'  pdf='y' notes='n' loc='-0.5,-78.5'     country='EC' region='Americas'    demo='n' n='Quichua, Calderón Highland'/>
+  <udhr l='quy'                rfc4646bis='qu-quy?'    ohchr='quy'    stage='4'  pdf='y' notes='n' loc='-14,-74'        country='PE' region='Americas'    demo='n' n='Quechua, Ayacucho'/>
+  <udhr l='quz'                rfc4646bis='qu-quz?'    ohchr='quz'    stage='4'  pdf='y' notes='n' loc='-8,-76'         country='PE' region='Americas'    demo='n' n='Quechua, Cusco'/>
+  <udhr l='qva'                rfc4646bis='qu-qva?'    ohchr='qeg'    stage='4'  pdf='y' notes='n' loc='-10.5,-76'      country='PE' region='Americas'    demo='n' n='Quechua, Ambo-Pasco'/>
+  <udhr l='qvc'                rfc4646bis='qu-qvc?'    ohchr='qnt'    stage='4'  pdf='y' notes='n' loc='-7,-79'         country='PE' region='Americas'    demo='n' n='Quechua, Cajamarca'/>
+  <udhr l='qvh'                rfc4646bis='qu-qvh?'    ohchr='qej'    stage='4'  pdf='y' notes='n' loc='-9,-76.5'       country='PE' region='Americas'    demo='n' n='Quechua, Huamalíes-Dos de Mayo Huánuco'/>
+  <udhr l='qvm'                rfc4646bis='qu-qvm?'    ohchr='qei'    stage='4'  pdf='y' notes='n' loc='-10,-76.5'      country='PE' region='Americas'    demo='n' n='Quechua, Margos-Yarowilca-Lauricocha'/>
+  <udhr l='qvn'                rfc4646bis='qu-qvn?'    ohchr='qju'    stage='4'  pdf='y' notes='n' loc='-11,-76'        country='PE' region='Americas'    demo='n' n='Quechua, North Junín'/>
+  <udhr l='qwh'                rfc4646bis='qu-qwh?'    ohchr='qan'    stage='4'  pdf='y' notes='n' loc='-9,-78'         country='PE' region='Americas'    demo='n' n='Quechua, Huaylas Ancash'/>
+  <udhr l='qxa'                rfc4646bis='qu-qxa?'    ohchr='qec1'   stage='4'  pdf='y' notes='n' loc='-10.5,-77'      country='PE' region='Americas'    demo='n' n='Quechua, Chiquián Ancash'/>
+  <udhr l='qxn'                rfc4646bis='qu-qxn?'    ohchr='qed'    stage='4'  pdf='y' notes='n' loc='-15.5,-72.5'    country='PE' region='Americas'    demo='n' n='Quechua, Northern Conchucos Ancash'/>
+  <udhr l='qxu'                rfc4646bis='qu-qxu?'    ohchr='qar'    stage='4'  pdf='y' notes='n' loc='-15.5,-73'      country='PE' region='Americas'    demo='n' n='Quechua, Arequipa-La Unión'/>
+  <udhr l='rar'                rfc4646bis='rar'        ohchr='rrt'    stage='4'  pdf='y' notes='n' loc='-21,-175'       country='CK' region='Pacific'     demo='n' n='Rarotongan'/>
+  <udhr l='rmn'                rfc4646bis='rom-?-x-2'  ohchr='rmn'    stage='4'  pdf='y' notes='n' loc='43.5,21'        country='CS' region='Europe'      demo='n' n='Romani, Balkan'/>
+  <udhr l='rmn' v='1'          rfc4646bis='rom-?-x-1'  ohchr='rmn1'   stage='4'  pdf='y' notes='n' loc='43.5,20'        country='CS' region='Europe'      demo='n' n='Romani, Balkan' nv='1'/>
+  <udhr l='rmy'                rfc4646bis='rom-rmy?'   ohchr='rmy1'   stage='4'  pdf='y' notes='n' loc='44,25'          country='RO' region='Europe'      demo='n' n='Romani, Vlax'/>
+  <udhr l='roh'                rfc4646bis='rm'         ohchr='rhe'    stage='4'  pdf='y' notes='n' loc='46.5,9.8'       country='CH' region='Europe'      demo='n' n='Romansch'/>
+  <udhr l='ron'  v='1953'      rfc4646bis='ro-x-1953'  ohchr='rum'    stage='4'  pdf='y' notes='y' loc='46,24'          country='RO' region='Europe'      demo='n' n='Romanian (1953)'/>
+  <udhr l='ron'  v='1993'      rfc4646bis='ro-x-1993'  ohchr=''       stage='4'  pdf='y' notes='y' loc='46,25'          country='RO' region='Europe'      demo='n' n='Romanian (1993)'/>
+  <udhr l='ron'  v='2006'      rfc4646bis='ro-x-2006'  ohchr=''       stage='4'  pdf='y' notes='y' loc='46,26'          country='RO' region='Europe'      demo='n' n='Romanian (2006)'/>
+  <udhr l='run'                rfc4646bis='rn'         ohchr='rud1'   stage='4'  pdf='y' notes='n' loc='-4,30'          country='BI' region='Africa'      demo='n' n='Rundi'/>
+  <udhr l='rus'                rfc4646bis='ru'         ohchr='rus'    stage='4'  pdf='y' notes='n' loc='55,45'          country='RU' region='Europe'      demo='y' n='Russian'/>
+  <udhr l='sag'                rfc4646bis='sg'         ohchr='saj'    stage='4'  pdf='y' notes='n' loc='7,21'           country='CF' region='Africa'      demo='n' n='Sango'/>
+  <udhr l='san'                rfc4646bis='sa'         ohchr='skt'    stage='4'  pdf='y' notes='n' loc='24,80'          country='IN' region='Americas'    demo='n' n='Sanskrit'/>
+  <udhr l='shn'                rfc4646bis='shn'        ohchr='sjn'    stage='2'  pdf='n' notes='n' loc='22,99'          country='MM' region='Asia'        demo='n' n='Shan'/>
+  <udhr l='shp'                rfc4646bis=''           ohchr='shp'    stage='4'  pdf='y' notes='n' loc='-8,-74.5'       country='PE' region='Americas'    demo='n' n='Shipibo-Conibo'/>
+  <udhr l='sin'                rfc4646bis='si'         ohchr='snh'    stage='2'  pdf='n' notes='n' loc='7,81'           country='LK' region='Asia'        demo='n' n='Sinhala'/>
+  <udhr l='skr'                rfc4646bis='lah-skr?'   ohchr='skr'    stage='4'  pdf='y' notes='n' loc='28,70'          country='PK' region='Asia'        demo='n' n='Seraiki'/>
+  <udhr l='slk'                rfc4646bis='sk'         ohchr='slo'    stage='4'  pdf='y' notes='n' loc='48,18'          country='SK' region='Europe'      demo='n' n='Slovak'/>
+  <udhr l='slv'                rfc4646bis='sl'         ohchr='slv'    stage='4'  pdf='y' notes='n' loc='46,15'          country='SI' region='Europe'      demo='n' n='Slovenian'/>
+  <udhr l='sme'                rfc4646bis='se'         ohchr='lpi'    stage='4'  pdf='y' notes='n' loc='65,13'          country='NO' region='Europe'      demo='n' n='Saami, North'/>
+  <udhr l='smo'                rfc4646bis='sm'         ohchr='smy'    stage='4'  pdf='y' notes='n' loc='-14,-172'       country='WS' region='Pacific'     demo='n' n='Samoan'/>
+  <udhr l='sna'                rfc4646bis='sn'         ohchr='shd'    stage='4'  pdf='y' notes='n' loc='-19,31'         country='ZW' region='Africa'      demo='n' n='Shona'/>
+  <udhr l='snd'                rfc4646bis='sd'         ohchr='snd'    stage='2'  pdf='n' notes='n' loc='25,68'          country='PK' region='Asia'        demo='n' n='Sindhi'/>
+  <udhr l='snk'                rfc4646bis='snk'        ohchr='snn'    stage='4'  pdf='y' notes='n' loc='15,-9'          country='ML' region='Africa'      demo='n' n='Soninke'/>
+  <udhr l='som'                rfc4646bis='so'         ohchr='som'    stage='4'  pdf='y' notes='n' loc='10,50'          country='SO' region='Africa'      demo='n' n='Somali'/>
+  <udhr l='sot'                rfc4646bis='st'         ohchr='sso'    stage='4'  pdf='y' notes='n' loc='-20,29'         country='LS' region='Africa'      demo='n' n='Sotho, Southern'/>
+  <udhr l='spa'                rfc4646bis='es'         ohchr='spn'    stage='4'  pdf='y' notes='n' loc='40,-3'          country='ES' region='Europe'      demo='n' n='Spanish'/>
+  <udhr l='src'                rfc4646bis='sc'         ohchr='srd'    stage='4'  pdf='y' notes='n' loc='40,9'           country='IT' region='Europe'      demo='n' n='Sardinian, Logudorese'/>
+  <udhr l='srp' v='cyrl'       rfc4646bis='sr-Cyrl'    ohchr='src5'   stage='4'  pdf='y' notes='n' loc='42.5,21'        country='CS' region='Europe'      demo='n' n='Serbian' nv='Cyrillic'/>
+  <udhr l='srp' v='latn'       rfc4646bis='sr-Latn'    ohchr='src3'   stage='4'  pdf='y' notes='n' loc='42.5,21'        country='CS' region='Europe'      demo='n' n='Serbian' nv='Latin'/>
+  <udhr l='srr'                rfc4646bis=''           ohchr='ses'    stage='4'  pdf='y' notes='n' loc='14.2,-15.5'     country='SN' region='Africa'      demo='n' n='Serer-Sine'/>
+  <udhr l='ssw'                rfc4646bis='ss'         ohchr='swz1'   stage='4'  pdf='y' notes='n' loc='-27,32'         country='SZ' region='Africa'      demo='n' n='Swati'/>
+  <udhr l='suk'                rfc4646bis=''           ohchr='sua'    stage='4'  pdf='y' notes='n' loc='-2.5,33'        country='TZ' region='Africa'      demo='n' n='Sukuma'/>
+  <udhr l='sun'                rfc4646bis=''           ohchr='suo'    stage='4'  pdf='y' notes='n' loc='-7,108'         country='ID' region='Asia'        demo='n' n='Sunda'/>
+  <udhr l='sus'                rfc4646bis=''           ohchr='sud'    stage='4'  pdf='y' notes='n' loc='10,-13'         country='GN' region='Africa'      demo='n' n='Susu'/>
+  <udhr l='swe'                rfc4646bis='sv'         ohchr='swd'    stage='4'  pdf='y' notes='n' loc='60,15'          country='SE' region='Europe'      demo='n' n='Swedish'/>
+  <udhr l='swh'                rfc4646bis='sw'         ohchr='swa'    stage='4'  pdf='y' notes='n' loc='-6,36'          country='TZ' region='Africa'      demo='n' n='Swahili'/>
+  <udhr l='tah'                rfc4646bis='ty'         ohchr='tht'    stage='4'  pdf='y' notes='n' loc='-18,-149'       country='PF' region='Pacific'     demo='n' n='Tahitian'/>
+  <udhr l='taj'                rfc4646bis=''           ohchr='taj'    stage='3'  pdf='y' notes='n' loc='26.85'          country='NP' region='Asia'        demo='n' n='Tamang, Eastern'/>
+  <udhr l='tam'                rfc4646bis='ta'         ohchr='tcv'    stage='4'  pdf='y' notes='n' loc='12,79'          country='IN' region='Asia'        demo='y' n='Tamil'/>
+  <udhr l='tat'                rfc4646bis='tt'         ohchr='ttr'    stage='4'  pdf='y' notes='n' loc='57,49'          country='RU' region='Europe'      demo='n' n='Tatar'/>
+  <udhr l='tbz'                rfc4646bis=''           ohchr='tbz'    stage='4'  pdf='y' notes='n' loc='10.2,1.2'       country='BJ' region='Africa'      demo='n' n='Ditammari'/>
+  <udhr l='tca'                rfc4646bis=''           ohchr='tca'    stage='4'  pdf='y' notes='n' loc='-3,-68'         country='BR' region='Americas'    demo='n' n='Ticuna'/>
+  <udhr l='tel'                rfc4646bis='te'         ohchr='tcw'    stage='2'  pdf='n' notes='n' loc='16,80'          country='IN' region='Asia'        demo='n' n='Telugu'/>
+  <udhr l='tem'                rfc4646bis=''           ohchr='tej'    stage='4'  pdf='y' notes='y' loc='8.5,-12.5'      country='SL' region='Africa'      demo='n' n='Themne'/>
+  <udhr l='tet'                rfc4646bis=''           ohchr='ttm'    stage='4'  pdf='y' notes='n' loc='-9,125'         country='ID' region='Asia'        demo='n' n='Tetun'/>
+  <udhr l='tgk'                rfc4646bis='tg'         ohchr='pet'    stage='4'  pdf='y' notes='n' loc='38,70'          country='TJ' region='Asia'        demo='n' n='Tajiki'/>
+  <udhr l='tgl'                rfc4646bis='tl'         ohchr='tgl'    stage='4'  pdf='y' notes='n' loc='14.5,121'       country='PH' region='Asia'        demo='n' n='Tagalog'/>
+  <udhr l='tgl' v='tglg'       rfc4646bis='tl-Tglg'    ohchr=''       stage='1'  pdf='y' notes='n' loc='14.5,122'       country='PH' region='Asia'        demo='y' n='Tagalog' nv='Tagalog'/>
+  <udhr l='tha'                rfc4646bis='th'         ohchr='thj'    stage='4'  pdf='y' notes='n' loc='14,100'         country='TH' region='Asia'        demo='y' n='Thai'/>
+  <udhr l='tir'                rfc4646bis='ti'         ohchr='tgn'    stage='4'  pdf='y' notes='n' loc='15.5,39'        country='ET' region='Africa'      demo='y' n='Tigrigna'/>
+  <udhr l='tiv'                rfc4646bis='tiv'        ohchr='tiv'    stage='4'  pdf='y' notes='n' loc='7.5,9'          country='NG' region='Africa'      demo='n' n='Tiv'/>
+  <udhr l='tob'                rfc4646bis=''           ohchr='tob'    stage='4'  pdf='y' notes='n' loc='-28,-56'        country='AR' region='Americas'    demo='n' n='Toba'/>
+  <udhr l='toi'                rfc4646bis=''           ohchr='toi'    stage='4'  pdf='y' notes='n' loc='-15,25'          country='  ' region='Pacific'     demo='n' n='Tonga'/>
+  <udhr l='toj'                rfc4646bis=''           ohchr='toj'    stage='4'  pdf='y' notes='n' loc='16.2,-91.8'     country='MX' region='Americas'    demo='n' n='Tojolabal'/>
+  <udhr l='ton'                rfc4646bis='to'         ohchr='tov'    stage='4'  pdf='y' notes='n' loc='-21,-175'       country='TO' region='Pacific'     demo='n' n='Tongan'/>
+  <udhr l='top'                rfc4646bis=''           ohchr='top'    stage='4'  pdf='y' notes='n' loc='20.5,-97.0'     country='MX' region='Americas'    demo='n' n='Totonac, Papantla'/>
+  <udhr l='tpi'                rfc4646bis='tpi'        ohchr='pdg'    stage='4'  pdf='y' notes='n' loc='-6,150'         country='PG' region='Pacific'     demo='n' n='Tok Pisin'/>
+  <udhr l='tsn'                rfc4646bis='tn'         ohchr='tsw'    stage='4'  pdf='y' notes='n' loc='-23.5,26'       country='BW' region='Africa'      demo='n' n='Tswana'/>
+  <udhr l='tsz'                rfc4646bis=''           ohchr='1112'   stage='4'  pdf='y' notes='n' loc='19,-102.0'      country='MX' region='Americas'    demo='n' n='Purepecha'/>
+  <udhr l='tuk'                rfc4646bis='tk'         ohchr='tck'    stage='4'  pdf='y' notes='n' loc='40,60'          country='TM' region='Asia'        demo='n' n='Turkmen'/>
+  <udhr l='tur'                rfc4646bis='tr'         ohchr='trk'    stage='4'  pdf='y' notes='n' loc='39,32'          country='TR' region='Asia'        demo='n' n='Turkish'/>
+  <udhr l='tzc'                rfc4646bis=''           ohchr='tzc'    stage='4'  pdf='y' notes='n' loc='16.5,-93.0'     country='MX' region='Americas'    demo='n' n='Tzotzil, Chamula'/>
+  <udhr l='tzh'                rfc4646bis=''           ohchr='tzc1'   stage='4'  pdf='y' notes='n' loc='16.5,-92.1'     country='MX' region='Americas'    demo='n' n='Tzeltal, Oxchuc'/>
+  <udhr l='tzm'                rfc4646bis=''           ohchr='tzm'    stage='4'  pdf='y' notes='n' loc='30,-5'          country='MA' region='Africa'      demo='n' n='Tamazight, Central Atlas'/>
+  <udhr l='tzm' v='tfng'       rfc4646bis=''           ohchr=''       stage='1'  pdf='y' notes='n' loc='30,-6'          country='MA' region='Africa'      demo='y' n='Tamazight, Central Atlas' nv='Tifinagh'/>
+  <udhr l='uig' v='arab'       rfc4646bis='ug-Arab'    ohchr='uig'    stage='4'  pdf='y' notes='n' loc='36,80'          country='CN' region='Asia'        demo='n' n='Uyghur' nv='Arabic'/>
+  <udhr l='uig' v='latn'       rfc4646bis='ug-Latn'    ohchr=''       stage='4'  pdf='y' notes='n' loc='36,81'          country='CN' region='Asia'        demo='n' n='Uyghur' nv='Latin'/>
+  <udhr l='ukr'                rfc4646bis='uk'         ohchr='ukr'    stage='4'  pdf='y' notes='n' loc='50,30'          country='UA' region='Europe'      demo='n' n='Ukrainian'/>
+  <udhr l='umb'                rfc4646bis='umb'        ohchr='mnf'    stage='4'  pdf='y' notes='n' loc='-13,15'         country='AO' region='Africa'      demo='n' n='Umbundu'/>
+  <udhr l='ura'                rfc4646bis=''           ohchr='ura'    stage='4'  pdf='y' notes='n' loc='-4.5,-75.5'     country='PE' region='Americas'    demo='n' n='Urarina'/>
+  <udhr l='urd'                rfc4646bis='ur'         ohchr='urd'    stage='3'  pdf='y' notes='n' loc='30,73'          country='PK' region='Asia'        demo='n' n='Urdu'/>
+  <udhr l='uzn' v='cyrl'       rfc4646bis='uzn-Cyrl'   ohchr='uzb1'   stage='4'  pdf='y' notes='n' loc='42,62'          country='UZ' region='Asia'        demo='n' n='Uzbek, Northern' nv='Cyrillic'/>
+  <udhr l='uzn' v='latn'       rfc4646bis='uzn-Latn'   ohchr='uzb'    stage='4'  pdf='y' notes='n' loc='42,63'          country='UZ' region='Asia'        demo='n' n='Uzbek, Northern' nv='Latin'/>
+  <udhr l='vai'                rfc4646bis='vai'        ohchr=''       stage='4'  pdf='y' notes='n' loc='6.2,-10.5'      country='LR' region='Africa'      demo='y' n='Vai'/>
+  <udhr l='vie'                rfc4646bis='vi'         ohchr='vie'    stage='4'  pdf='y' notes='n' loc='12,108'         country='VN' region='Asia'        demo='n' n='Vietnamese'/>
+  <udhr l='war'                rfc4646bis='war'        ohchr='wry'    stage='4'  pdf='y' notes='n' loc='11.5,125'       country='PH' region='Asia'        demo='n' n='Waray-Waray'/>
+  <udhr l='wln'                rfc4646bis='wa'         ohchr='wln'    stage='4'  pdf='y' notes='n' loc='50.5,5.5'       country='BE' region='Europe'      demo='n' n='Walloon'/>
+  <udhr l='wol'                rfc4646bis='wo'         ohchr='wol'    stage='4'  pdf='y' notes='n' loc='15.5,-16'       country='SN' region='Africa'      demo='n' n='Wolof'/>
+  <udhr l='wwa'                rfc4646bis=''           ohchr='ako'    stage='4'  pdf='y' notes='n' loc='10.5,1.7'       country='BJ' region='Africa'      demo='n' n='Waama'/>
+  <udhr l='xho'                rfc4646bis='xh'         ohchr='xos'    stage='4'  pdf='y' notes='n' loc='-28,28'         country='ZA' region='Africa'      demo='n' n='Xhosa'/>
+  <udhr l='xsm'                rfc4646bis=''           ohchr='kas'    stage='4'  pdf='y' notes='n' loc='11,-1.2'        country='BF' region='Africa'      demo='n' n='Kasem'/>
+  <udhr l='yad'                rfc4646bis=''           ohchr='yad'    stage='4'  pdf='y' notes='n' loc='-3.5,-73'       country='PE' region='Americas'    demo='n' n='Yagua'/>
+  <udhr l='yao'                rfc4646bis=''           ohchr='yao'    stage='4'  pdf='y' notes='n' loc='-14.5,36'       country='MW' region='Africa'      demo='n' n='Yao'/>
+  <udhr l='yap'                rfc4646bis='yap'        ohchr='yps'    stage='4'  pdf='y' notes='n' loc='10,138'         country='FM' region='Pacific'     demo='n' n='Yapese'/>
+  <udhr l='ydd'                rfc4646bis='yi'         ohchr='ydd'    stage='4'  pdf='y' notes='n' loc='31,35'          country='IL' region='Asia'        demo='n' n='Yiddish, Eastern'/>
+  <udhr l='ykg'                rfc4646bis=''           ohchr='ykg'    stage='4'  pdf='y' notes='n' loc='58,160'         country='RU' region='Asia'        demo='n' n='Yukaghir, Northern'/>
+  <udhr l='yor'                rfc4646bis='yo'         ohchr='yor'    stage='4'  pdf='y' notes='n' loc='8,4'            country='NG' region='Africa'      demo='n' n='Yoruba'/>
+  <udhr l='yua'                rfc4646bis=''           ohchr='yua'    stage='4'  pdf='y' notes='n' loc='20.0,-89.0'     country='MX' region='Americas'    demo='n' n='Maya, Yucatán'/>
+  <udhr l='zam'                rfc4646bis='zap-zam?'   ohchr='zam'    stage='4'  pdf='y' notes='n' loc='16.2,-96.6'     country='MX' region='Americas'    demo='n' n='Zapotec, Miahuatlán'/>
+  <udhr l='ztu'                rfc4646bis='zap-ztu?'   ohchr='ztu1'   stage='4'  pdf='y' notes='n' loc='16.9,-96.5'     country='MX' region='Americas'    demo='n' n='Zapotec, Güilá'/>
+  <udhr l='zul'                rfc4646bis='zu'         ohchr='zuu'    stage='4'  pdf='y' notes='y' loc='-28,29'         country='ZA' region='Africa'      demo='n' n='Zulu'/>
+</udhrs>
